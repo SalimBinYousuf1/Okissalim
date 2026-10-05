@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Salim</string>
+    <string name="app_tagline">Remote Phone Controller &amp; Stream</string>
+
+    <!-- Pairing & Camera -->
+    <string name="pairing_title">Pair with Ubaid</string>
+    <string name="pairing_subtitle">Point your camera at the QR code displayed on your Ubaid host phone.</string>
+    <string name="camera_permission_title">Camera Access Required</string>
+    <string name="camera_permission_desc">Salim requires camera access to scan the one-time pairing QR code from Ubaid.</string>
+    <string name="grant_camera_permission">Enable Camera</string>
+    <string name="manual_pairing_action">Enter Pairing Code Manually</string>
+    <string name="manual_pairing_prompt">Enter Ubaid Pairing ID</string>
+    <string name="manual_pairing_hint">e.g. UBAID-7F3A2B1C</string>
+    <string name="connect_button">Connect</string>
+    <string name="scan_qr_action">Scan QR Code</string>
+    <string name="invalid_qr_title">Invalid QR Code</string>
+    <string name="invalid_qr_desc">The scanned code does not contain a valid Ubaid host configuration. Please make sure you are scanning the QR code from the Ubaid app.</string>
+    <string name="try_again">Scan Again</string>
+
+    <!-- Navigation Tabs -->
+    <string name="tab_screen">Mirror</string>
+    <string name="tab_files">Files</string>
+    <string name="tab_notifications">Alerts</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_settings">Settings</string>
+
+    <!-- Connection States -->
+    <string name="status_connected">Connected &amp; Streaming</string>
+    <string name="status_connecting">Connecting to Ubaid...</string>
+    <string name="status_reconnecting">Reconnecting (ICE)...</string>
+    <string name="status_waiting_on_host">Waiting on Ubaid</string>
+    <string name="status_unreachable">Ubaid Unreachable</string>
+    <string name="status_standby">Disconnected</string>
+
+    <!-- Remote Screen Overlay Actions -->
+    <string name="action_back">Back</string>
+    <string name="action_home">Home</string>
+    <string name="action_recents">Recents</string>
+    <string name="action_keyboard">Input</string>
+    <string name="action_fullscreen">Fit / Fill</string>
+    <string name="type_text_hint">Type text to send to host...</string>
+    <string name="send_text">Send</string>
+
+    <!-- File Browser -->
+    <string name="files_title">Remote File Browser</string>
+    <string name="download_action">Download</string>
+    <string name="upload_action">Upload File</string>
+    <string name="refresh_action">Refresh</string>
+    <string name="empty_directory">No files found in this folder</string>
+
+    <!-- Notifications -->
+    <string name="notifications_title">Live Notification Feed</string>
+    <string name="empty_notifications">No notifications received yet from Ubaid</string>
+    <string name="clear_notifications">Clear All</string>
+
+    <!-- Status & Telemetry -->
+    <string name="status_title">Host Telemetry &amp; Health</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="network_status">Network Connection</string>
+    <string name="screen_state">Host Screen</string>
+    <string name="connection_quality">Stream Quality</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Controller Settings</string>
+    <string name="paired_host">Paired Host</string>
+    <string name="re_pair_host">Re-pair with Another Host</string>
+    <string name="reconnect_stream">Force Reconnect</string>
+    <string name="firebase_status">Signaling Mailbox</string>
+
+    <!-- Common -->
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+</resources>

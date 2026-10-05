@@ -1,0 +1,6 @@
+{
+  "name": "Salim",
+  "description": "High-reliability controller app for remote access, live screen mirroring, touch control, file management, and telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
